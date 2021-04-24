@@ -1,3 +1,8 @@
+# makeglb edited
+This is the version that i added some error logs.
+
+https://tools.alitasci.net/glbpacker
+
 # makeglb
 Convert glTF to glb
 
